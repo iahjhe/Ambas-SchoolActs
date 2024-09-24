@@ -1,0 +1,37 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+.poppins-font{
+    font-family: 'Poppins', sans-serif;
+}
+.costum-bg{
+    background-color: #f6f4f3;
+}
+.costum-border{
+    border-bottom: 2px solid #31241e;
+}
+.bg-image{
+    background-image: url(../images/home1.jpg);
+    background-size: cover; 
+    background-position: center; 
+    height: 380px;
+}
+.costum-shop{
+    background-color: #d1c8c1;
+}
+.costum-navlink{
+    color: #86654b !important;
+}
+.about-image{
+    height: 500px !important;
+    width: 500px !important;
+    object-fit: cover;
+}
+.about-font{
+    color: #31241e !important;
+}
+.courses-image{
+    height: 350px !important;
+    width: 600px !important;
+    object-fit: cover;
+}
